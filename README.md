@@ -2,10 +2,10 @@
 A modular web component library.
 
 ## Roadmap
-* [ ]Proxy based reactive data binding
-* [ ]Web Component lifecycle
-* [ ]React component compatibility(JSX)
-* [ ]Single file component
+- [ ] Proxy based reactive data binding
+- [ ] Web Component lifecycle
+- [ ] React component compatibility(JSX)
+- [ ] Single file component
 
 ## Design
 
