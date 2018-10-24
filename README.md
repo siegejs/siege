@@ -9,7 +9,7 @@ A modular web component library.
 
 ## Design
 
-```Hello.siege
+```Hello.vue
 <style lang='less' scoped>
   .hello {
     color: pink;
